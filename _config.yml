@@ -10,10 +10,10 @@ url: http://scotte.github.io
 # be the project name.
 # *** IMPORTANT: If your local "jekyll serve" throws errors change this to '' or
 #     run it like so: jekyll serve --baseurl=''
-baseurl: /jekyll-clean
+baseurl: /trogdor1138.github.io
 
 # This can be '' to hide the Github nav button
-github: 'scotte/jekyll-clean'
+github: 'trogdor1138/trogdor1138.github.io'
 
 # Set this to your UA-# value, or '' to disable the block completely
 gaaccount: ''
